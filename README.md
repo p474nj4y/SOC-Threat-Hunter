@@ -38,7 +38,7 @@ This project demonstrates core SOC Analyst skills including:
 SOC-Threat-Hunter/
 │
 ├── threat_hunter.sh
-├── sample_logs/
+├── log/
 │   └── auth.log
 │
 ├── reports/
