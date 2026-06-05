@@ -215,7 +215,7 @@ This file contains:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SOC-Threat-Hunter.git
+git clone https://github.com/p474nj4y/SOC-Threat-Hunter.git
 ```
 
 Move into the project directory:
@@ -245,7 +245,7 @@ When prompted, enter the path to your authentication log file.
 Example:
 
 ```text
-sample_logs/auth.log
+logs/auth.log
 ```
 
 or
@@ -299,26 +299,32 @@ This project demonstrates practical SOC Analyst skills including:
 
 # 📸 Screenshots
 
-Add screenshots of:
-
 - Main Menu
-- Brute Force Detection
-- Generated Reports
+
+<img width="391" height="210" alt="Screenshot 2026-06-05 at 9 00 59 PM" src="https://github.com/user-attachments/assets/3d1e022a-59f4-4ce7-94d4-433adc3bb21c" />
+
 - SSH Analysis Results
 
-Inside:
+<img width="227" height="143" alt="Screenshot 2026-06-05 at 9 47 29 PM" src="https://github.com/user-attachments/assets/bd57cae1-05fe-4fcd-ac65-a29b3703b798" />
 
-```text
-screenshots/
-```
+- Brute Force Detection
 
----
+<img width="297" height="86" alt="Screenshot 2026-06-05 at 9 45 55 PM" src="https://github.com/user-attachments/assets/9c0d41ad-ec92-4e65-8ecd-48f5722b63de" />
+
+- SUDO Activities
+
+<img width="759" height="155" alt="Screenshot 2026-06-05 at 9 48 47 PM" src="https://github.com/user-attachments/assets/44a8b86e-1020-4669-afac-e61f4b345264" />
+
+- Generated Reports
+
+<img width="743" height="398" alt="Screenshot 2026-06-05 at 9 46 46 PM" src="https://github.com/user-attachments/assets/546b2237-8ada-4919-8ffb-226ee099c857" />
+
 
 # 👨‍💻 Author
 
 **Pipo**
 
-Cybersecurity Student | SOC Analyst Aspirant | Linux Security Enthusiast
+SOC Analyst L1 | Independent Security Researcher
 
 ---
 
