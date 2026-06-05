@@ -1,1 +1,21 @@
-jiiii
+==================================
+SOC THREAT HUNTING REPORT
+Generated: Fri Jun  5 07:53:29 PDT 2026
+==================================
+
+FAILED SSH ATTEMPTS
+     15 ssh2
+
+SUCCESSFUL SSH LOGINS
+ubuntu -> 192.168.1.5
+analyst -> 192.168.1.20
+pipo -> 192.168.1.30
+john -> 192.168.1.45
+
+BRUTE FORCE ALERTS
+     15 ssh2
+
+SUDO ACTIVITY
+Jun 05 09:30:01 server sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 05 09:30:55 server sudo: analyst : TTY=pts/1 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Jun 05 09:31:20 server sudo: pipo : TTY=pts/2 ; PWD=/home/pipo ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
